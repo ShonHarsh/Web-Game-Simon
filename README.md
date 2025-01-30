@@ -4,13 +4,13 @@
 
 ## Description
 
-There is no surprise here; this is a web instantiation of the game Simon. The exercise is from the class The Complete Full-Stack Web Development Bootcamp taught one of my absolute favorite instructors by [Dr. Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/).
+There is no surprise here; this is a web instantiation of the game Simon.
+
+## Exercise Specifications
+
+The is Section 20: Boss Level Challenge 2 from the class The Complete Full-Stack Web Development Bootcamp taught one of my absolute favorite instructors by [Dr. Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/).
 
 This project is a web game based on the game [Simon](<https://en.wikipedia.org/wiki/Simon_(game)>).
-
-<img src="https://shonharsh.github.io/curriculum-vitae/images/Icon-HTML.png" alt="HTML" width="100"/>
-<img src="https://shonharsh.github.io/curriculum-vitae/images/Icon-CSS.png" alt="CSS" width="100"/>
-<img src="https://shonharsh.github.io/curriculum-vitae/images/Icon-JavaScript.png" alt="JS" width="100"/>
 
 ## Getting Started
 
